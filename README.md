@@ -4,7 +4,7 @@
 
 ## Try it Live!
 
-Check out the live app [Meme Generator]()
+Check out the live app [Meme Generator](https://memes-generator-olive.vercel.app/)
 
 ## How to Use
 
@@ -25,12 +25,12 @@ Check out the live app [Meme Generator]()
 1. Clone this repository.
 
     ```bash
-    git clone
+    git clone https://github.com/mahmoud-mohsen-dev/memes-generator.git
     ```
 
 2. Navigate to the Project Directory:
     ```bash
-    cd
+    cd memes-generator
     ```
 3. Install Dependencies:
 
